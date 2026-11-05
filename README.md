@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%E9%80%8D%E9%81%A5%E8%87%AA%E5%9C%A8%EF%BC%8C%E4%BB%A3%E7%A0%81%E9%9A%8F%E5%BF%83;%E5%BC%80%E6%BA%90%E5%B0%8F%E5%B7%A5%E5%85%B7%E5%BC%80%E5%8F%91%E8%80%85&center=true&size=30&color=58A6FF)](https://github.com/xiaoyaodev)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%E9%81%87%E4%BA%8B%E4%B8%8D%E5%86%B3%EF%BC%8C%E5%8F%AF%E9%97%AE%E6%98%A5%E9%A3%8E;%E6%98%A5%E9%A3%8E%E4%B8%8D%E8%AF%AD%EF%BC%8C%E6%97%A2%E9%9A%8F%E6%9C%AC%E5%BF%83&center=true&size=30&color=58A6FF)](https://github.com/xiaoyaodev)
 
 </div>
 
