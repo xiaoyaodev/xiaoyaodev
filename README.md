@@ -14,7 +14,7 @@
 
 ### 我的技能集
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="32%">
 
 #### 常用技术
 
@@ -27,7 +27,7 @@
 
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="32%">
 
 #### 正在维护
 
@@ -37,4 +37,14 @@
 **[浏览器隐私双路线指南](https://github.com/xiaoyaodev/browser-privacy-dual-guide)**
 Chrome 融入路线 + Firefox 加固路线中文教程
 
+</td><td valign="top" width="36%">
+
+#### 使用的语言
+
+![使用的语言](assets/langs.svg)
+
 </td></tr></table>
+
+### 成就记录
+
+![成就记录](assets/activity.svg)

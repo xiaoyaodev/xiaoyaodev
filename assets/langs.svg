@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="148" viewBox="0 0 400 148" font-family="'Segoe UI','Noto Sans SC',sans-serif">
+<rect width="400" height="148" rx="6" fill="#1a1b27" stroke="#2e3350"/>
+<text x="20" y="30" font-size="15" font-weight="bold" fill="#70a5fd">使用的语言</text>
+<clipPath id="barclip"><rect x="20" y="46" width="360" height="8" rx="4"/></clipPath>
+<g clip-path="url(#barclip)"><rect x="20.0" y="46" width="350.6" height="8" fill="#3572A5"/><rect x="370.6" y="46" width="5.8" height="8" fill="#f1e05a"/><rect x="376.4" y="46" width="3.6" height="8" fill="#89e051"/></g>
+<circle cx="25" cy="80" r="5" fill="#3572A5"/><text x="38" y="84" font-size="13" fill="#a9b7d0">Python</text><text x="380" y="84" font-size="13" fill="#a9b7d0" text-anchor="end">97.4%</text><circle cx="25" cy="102" r="5" fill="#f1e05a"/><text x="38" y="106" font-size="13" fill="#a9b7d0">JavaScript</text><text x="380" y="106" font-size="13" fill="#a9b7d0" text-anchor="end">1.6%</text><circle cx="25" cy="124" r="5" fill="#89e051"/><text x="38" y="128" font-size="13" fill="#a9b7d0">Shell</text><text x="380" y="128" font-size="13" fill="#a9b7d0" text-anchor="end">1.0%</text>
+</svg>
